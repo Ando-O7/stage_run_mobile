@@ -58,3 +58,22 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# iOS build
+.DS_Store
+stage_run_iPhone/.DS_Store
+stage_run_iPhone/Classes/	
+stage_run_iPhone/Data/
+stage_run_iPhone/Info.plist
+stage_run_iPhone/LaunchScreen-iPad.png
+stage_run_iPhone/LaunchScreen-iPad.xib
+stage_run_iPhone/LaunchScreen-iPhone.xib
+stage_run_iPhone/LaunchScreen-iPhoneLandscape.png
+stage_run_iPhone/LaunchScreen-iPhonePortrait.png
+stage_run_iPhone/Libraries/
+stage_run_iPhone/MapFileParser
+stage_run_iPhone/MapFileParser.sh
+stage_run_iPhone/Unity-iPhone Tests/
+stage_run_iPhone/Unity-iPhone/
+stage_run_iPhone/process_symbols.sh	
+stage_run_iPhone/Classes/
+stage_run_iPhone/process_symbols.sh
